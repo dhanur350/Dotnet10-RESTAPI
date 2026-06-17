@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RESTAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+343e8670702bcf351994195337c3c76d4eddc916")]
 [assembly: System.Reflection.AssemblyProductAttribute("RESTAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RESTAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
